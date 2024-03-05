@@ -7,6 +7,10 @@
     text-decoration: none;
 }
 
+/* Start https://www.cursors-4u.com */
+* {cursor: url(https://cur.cursors-4u.net/nature/nat-10/nat976.ani), url(https://cur.cursors-4u.net/nature/nat-10/nat976.gif), auto !important;}
+/* End https://www.cursors-4u.com */
+
 /* text 속성을 통일시키기 위한 css */
 .m_text{
     /* 중간크기 text 속성 */
